@@ -20,11 +20,11 @@ This project analyses a real-world hotel booking dataset to identify key factors
 ---
 
 ##  Project Structure
-- Notebook/ # Jupyter notebook(s) containing the analysis or modelling steps
-- Summary Report/ # Written report or PDF summarizing the key findings
-- Visuals/ # Charts and visualizations created during the analysis
-- data/ # Raw and cleaned dataset(s) used in the project
-- README.md # Project overview and documentation
+- Notebook: Jupyter notebook(s) containing the analysis or modelling steps
+- Summary Report: Written report or PDF summarizing the key findings
+- Visuals: Charts and visualizations created during the analysis
+- data: Raw and cleaned dataset(s) used in the project
+- README.md: Project overview and documentation
 
 
 ---
