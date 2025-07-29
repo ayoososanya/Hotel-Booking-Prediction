@@ -1,6 +1,6 @@
 # Hotel Booking Cancellation Prediction
 
-This project analyzes a real-world hotel booking dataset to identify key factors that contribute to booking cancellations. Using Excel for data cleaning, exploration, and visualizations, the goal was to uncover actionable insights that could help hotel managers reduce cancellations and improve operational efficiency.
+This project analyses a real-world hotel booking dataset to identify key factors that contribute to booking cancellations. Using Excel for data cleaning, exploration, and visualisations, the goal was to uncover actionable insights that could help hotel managers reduce cancellations and improve operational efficiency.
 
 ---
 
@@ -20,12 +20,11 @@ This project analyzes a real-world hotel booking dataset to identify key factors
 ---
 
 ##  Project Structure
-hotel-booking-cancellation/
-│
-├── data/ # Raw and cleaned hotel booking datasets
-├── visuals/ # Excel-generated charts and figures
-├── summary_report/ # Project summary and analysis write-up (PDF or .docx)
-└── README.md # Project overview and documentation
+- Notebook/ # Jupyter notebook(s) containing the analysis or modelling steps
+- Summary Report/ # Written report or PDF summarizing the key findings
+- Visuals/ # Charts and visualizations created during the analysis
+- data/ # Raw and cleaned dataset(s) used in the project
+- README.md # Project overview and documentation
 
 
 ---
@@ -55,7 +54,7 @@ The dataset contains information on over 30,000 hotel bookings from a city hotel
 
 ##  Reflections
 
-This project helped deepen my understanding of how operational and customer variables influence cancellation behavior. It also allowed me to practice using Excel not just for calculations, but for structuring an end-to-end analysis: from cleaning and filtering to insights and recommendations.
+This project helped deepen my understanding of how operational and customer variables influence cancellation behaviour. It also allowed me to practice using Excel not just for calculations, but for structuring an end-to-end analysis: from cleaning and filtering to insights and recommendations.
 
 ---
 
@@ -63,7 +62,7 @@ This project helped deepen my understanding of how operational and customer vari
 
 - Train a classification model using Python (e.g., logistic regression or random forest)
 - Create an interactive dashboard in Power BI or Tableau
-- Explore economic cost of cancellations and possible prevention strategies
+- Explore the economic cost of cancellations and possible prevention strategies
 
 ---
 
